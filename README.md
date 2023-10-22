@@ -65,6 +65,7 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 - edited build.prop
 - removed custom bootanimation in favor of stock
 - created github page
+- added images to github
 ## **Known Issues**
 - no app market yet (Aurora doesn't support android 4.4.2)
 - you tell me
@@ -82,6 +83,8 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 - [_CPSTEST_](https://tiktok.com/@cpstest_) (for the ximi meme)
 
 ## SCREENSHOTS
+
+![device info](./info.png)
 
 ## SOCIALS
 [**TIKTOK**](https://tiktok.com/@tuttohomebrew)
