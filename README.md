@@ -1,3 +1,5 @@
+![**LOGO**](./Logo.png)
+
 # XimiExperience
 A fun and smooth custom rom for your Deco77x
 
@@ -83,8 +85,9 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 - [_CPSTEST_](https://tiktok.com/@cpstest_) (for the ximi meme)
 
 ## SCREENSHOTS
+![**lOCKSCREEN**](./Lockscreen.png)
 
-![device info](./info.png)
+![**DEVICE INFO**](./Info.png)
 
 ## SOCIALS
 [**TIKTOK**](https://tiktok.com/@tuttohomebrew)
