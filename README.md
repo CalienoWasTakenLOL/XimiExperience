@@ -1,16 +1,18 @@
-
+# XimiExperience
 A fun and smooth custom rom for your Deco77x
 
 * THIS ROM IS FOR 2015 KERNEL ONLY, I DO AM NOT RESPONSIBLE FOR ANY BRICKS ON 2016 KERNEL
   > To verify kernel version, go to __*settings > device info*__
+
  * Your warranty is now void.
  * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
  * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+
 ## Basic informations
 - **ROM Name:**  _XimiExperience_
 - **Version:** 0.1 A
 - **Release Date:** COMING SOON
-- **Based on:** Stock rom (2005 kernel)
+- **Based on:** Stock rom (2015 kernel)
 
 ## **Description**
 [based on Android 4.4.2]
@@ -59,19 +61,27 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 - Ximi bloatware removed
 - duplicate system launcher remooved
 - Google play services removed
-- general stability improvements
-**Known Issues**
+- general stability improvements(debloat and other stuff)
+- edited build.prop
+- removed custom bootanimation in favor of stock
+- created github page
+## **Known Issues**
 - no app market yet (Aurora doesn't support android 4.4.2)
 - you tell me
 
 ## **Support and Discussions**
 - No discussion group has been created yet
 
-**Acknowledgments**
-- all of the contributors to the [_**Androidiani thread for Deco 77x**_](https://www.androidiani.com/forum/modding-smartphone-altroconsumo/507498-smartphone-altroconsumo-mt6572-modding.html# XimiExperience)
+## **Acknowledgments** (special thanks)
+- all of the contributors to the [**Androidiani thread for Deco 77x**](https://www.androidiani.com/forum/modding-smartphone-altroconsumo/507498-smartphone-altroconsumo-mt6572-modding.html)
 - SP FLASH TOOL
 - Philz recovery
 - MIUI by Xiaomi
 - MIUI 7 port for Deco 77x
 - Federico cirillo (main sponsor for XimiExperience)
 - [_CPSTEST_](https://tiktok.com/@cpstest_) (for the ximi meme)
+
+## SCREENSHOTS
+
+## SOCIALS
+[**TIKTOK**](https://tiktok.com/@tuttohomebrew)
