@@ -32,31 +32,36 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 **UNPLUG YOUR PHONE AND REMOVE THE BATTERY**
 1. install _SP FLASH TOOL_
 >[windows](https://mega.nz/#!qApRBK6T!stKi3xa-zy-_1eeegvG_q1fiJqqUYbaOQp95Z-JxOck)
-<br>
 >[linux](https://mega.nz/#!WdonADiC!sCYrBBjy20WBdhps4IYjnRGHOiNk_shfsG2UB1RDoPQ)
-<br>
 >no mac :,)
 <br>
->[4pda (russian)](http://4pda.ru/forum/index.php?showtopic=469340)
+4PDA (Russian forum)
+http://4pda.ru/forum/index.php?showtopic=469340
 <br>
-> alternatively you can find it on google
-
-2. install [Preloader drivers](https://mega.nz/file/uQo1XDDI#EF0V4Tr5LgQvXuPAOSrcegtByZqrZt0tGtZe_8RZLms)
->this mega also contains ADB mediatek drivers
-
+alternatively you can find it on google
+<br>
+2. install Preloader drivers
+https://mega.nz/file/uQo1XDDI#EF0V4Tr5LgQvXuPAOSrcegtByZqrZt0tGtZe_8RZLms
+<br>
+<br>
+this mega also contains ADB mediatek drivers
+<br>
 3. unzip the rom
-
+<br>
 4. select the scatter file
-
+<br>
 5. select _**DOWNLOAD ONLY**_ mode if your phone is fully working
    if the phone is bricked or unstable, selct _**FIRMWARE UPDATE**_
    **NEVER** select _**FORMAT ALL + DOWNLOAD**_ because IMEIs are lost, and a factory reset is not guaranteed
    * uncheck "_recovery_" if a custom recovery is already installed (to install a custom recovery,  click on the recovery path and select Philz recovery from the unzipped rom)
    * uncheck "_USRDATA_" for dirty flash (unstable)
+<br>
 6. click on  _**DOWNLOAD**_
+<br>
 7. _**WHILE HOLDING VOL UP AND DOWN**_ plug the phone (without the battery) to the computer, SP FLASH TOOL should start flashing
+<br>
 8. once you see a green tick, plug the battery into the phone and reboot
-
+<br>
 8.5. (optional) flash superSU via recovery
 **GAPPS ARE UNTESTED** (and also useless on android 4.4.2)
 
