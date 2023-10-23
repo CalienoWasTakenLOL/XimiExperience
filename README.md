@@ -37,7 +37,7 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 3. flash zip
 4. flash superSU
 5. reboot
-6. enjoy
+6. enjoy <br>
 **GAPPS ARE UNTESTED** (and also useless on android 4.4.2)
 
 ## **Known Issues**
