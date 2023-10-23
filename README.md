@@ -17,7 +17,7 @@ A fun and smooth custom rom for your Deco77x
 - **Based on:** Stock rom (2015 kernel)
 
 ## **Description**
-[based on Android 4.4.2]
+[based on Android 4.4.2] <br>
 Due to my dissatisfaction with the [_**MIUI 7 PORT**_](https://www.androidiani.com/forum/modding-smartphone-altroconsumo/522845-miui-7-deco77x-port-bigboss97.html) on _Deco 77x_, i decided to make my own "miui-inspired" custom rom, 
 using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-77x-2/) as a base and deleting some more apps later via root
 
@@ -32,9 +32,13 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 **UNPLUG YOUR PHONE AND REMOVE THE BATTERY**
 1. install _SP FLASH TOOL_
 >[windows](https://mega.nz/#!qApRBK6T!stKi3xa-zy-_1eeegvG_q1fiJqqUYbaOQp95Z-JxOck)
+<br>
 >[linux](https://mega.nz/#!WdonADiC!sCYrBBjy20WBdhps4IYjnRGHOiNk_shfsG2UB1RDoPQ)
+<br>
 >no mac :,)
+<br>
 >[4pda (russian)](http://4pda.ru/forum/index.php?showtopic=469340)
+<br>
 > alternatively you can find it on google
 
 2. install [Preloader drivers](https://mega.nz/file/uQo1XDDI#EF0V4Tr5LgQvXuPAOSrcegtByZqrZt0tGtZe_8RZLms)
