@@ -1,4 +1,3 @@
-![**LOGO**](./Logo.png)
 
 # XimiExperience
 A fun and smooth custom rom for your Deco77x
