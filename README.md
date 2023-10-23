@@ -29,38 +29,21 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 - no cringe boot animation
 
 ## **Installation Instructions**
-**UNPLUG YOUR PHONE AND REMOVE THE BATTERY**
-1. install _SP FLASH TOOL_ <br>
-[windows](https://mega.nz/#!qApRBK6T!stKi3xa-zy-_1eeegvG_q1fiJqqUYbaOQp95Z-JxOck)
-[linux](https://mega.nz/#!WdonADiC!sCYrBBjy20WBdhps4IYjnRGHOiNk_shfsG2UB1RDoPQ) no mac :,) [4PDA](http://4pda.ru/forum/index.php?showtopic=469340)
-alternatively you can find it on google <br>
-2. install [Preloader drivers](https://mega.nz/file/uQo1XDDI#EF0V4Tr5LgQvXuPAOSrcegtByZqrZt0tGtZe_8RZLms)
-this mega also contains ADB mediatek drivers
-<br>
-<br>3. unzip the rom
-<br>
-<br>4. select the scatter file
-<br>
-<br>5. select  "DOWNLOAD ONLY" mode if your phone is fully working,
-   if the phone is bricked or unstable, selct  "FIRMWARE UPDATE",
-    NEVER select "FORMAT ALL + DOWNLOAD" because IMEIs are lost, and a factory reset is not guaranteed <br>
-<br>
-   * uncheck "recovery" if a custom recovery is already installed (to install a custom recovery,  click on the recovery path and select Philz recovery from the unzipped rom)<br>
-<br>
-   * uncheck "USRDATA" for dirty flash (unstable)
-<br>
-<br>6. click on  DOWNLOAD
-<br>
-<br>7. WHILE HOLDING VOL UP AND DOWN plug the phone (without the battery) to the computer, SP FLASH TOOL should start flashing
-<br>
-<br>8. once you see a green tick, plug the battery into the phone and reboot
-<br>
-<br>8.5. (optional) flash superSU via recovery <br>
-<br>
+* due to some technical changes, the rom is now recovery-only, therefore, the flashing method has changed completely
+* the phone MUST HAVE a recovery already installed (preferrably Philz)
+
+1. Boot into recovery
+2. wipe
+3. flash zip
+4. flash superSU
+5. reboot
+6. enjoy
 **GAPPS ARE UNTESTED** (and also useless on android 4.4.2)
 
-## **Download**
-* no download yet
+## **Known Issues**
+- no app market yet (Aurora doesn't support android 4.4.2)
+- you tell me
+
 
 ## **Changelog**
 - Ximi bloatware removed
@@ -71,10 +54,10 @@ this mega also contains ADB mediatek drivers
 - removed custom bootanimation in favor of stock
 - created github page
 - added images to github
-## **Known Issues**
-- no app market yet (Aurora doesn't support android 4.4.2)
-- you tell me
 - added wallpapers
+
+## **Download**
+* no download yet
 
 ## **Support and Discussions**
 - No discussion group has been created yet
