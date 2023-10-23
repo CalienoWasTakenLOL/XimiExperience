@@ -30,13 +30,12 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 
 ## **Installation Instructions**
 **UNPLUG YOUR PHONE AND REMOVE THE BATTERY**
-1. install _SP FLASH TOOL_
->[windows](https://mega.nz/#!qApRBK6T!stKi3xa-zy-_1eeegvG_q1fiJqqUYbaOQp95Z-JxOck)
->[linux](https://mega.nz/#!WdonADiC!sCYrBBjy20WBdhps4IYjnRGHOiNk_shfsG2UB1RDoPQ)
+1. install _SP FLASH TOOL_ <br>
+[windows](https://mega.nz/#!qApRBK6T!stKi3xa-zy-_1eeegvG_q1fiJqqUYbaOQp95Z-JxOck)
+[linux](https://mega.nz/#!WdonADiC!sCYrBBjy20WBdhps4IYjnRGHOiNk_shfsG2UB1RDoPQ)
 >no mac :,)
 <br>
-4PDA (Russian forum)
-http://4pda.ru/forum/index.php?showtopic=469340
+[4PDA (Russian forum)](http://4pda.ru/forum/index.php?showtopic=469340)
 <br>
 alternatively you can find it on google
 <br>
