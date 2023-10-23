@@ -32,36 +32,31 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 **UNPLUG YOUR PHONE AND REMOVE THE BATTERY**
 1. install _SP FLASH TOOL_ <br>
 [windows](https://mega.nz/#!qApRBK6T!stKi3xa-zy-_1eeegvG_q1fiJqqUYbaOQp95Z-JxOck)
-[linux](https://mega.nz/#!WdonADiC!sCYrBBjy20WBdhps4IYjnRGHOiNk_shfsG2UB1RDoPQ)
->no mac :,)
-<br>
-[4PDA (Russian forum)](http://4pda.ru/forum/index.php?showtopic=469340)
-<br>
-alternatively you can find it on google
-<br>
-2. install Preloader drivers
-https://mega.nz/file/uQo1XDDI#EF0V4Tr5LgQvXuPAOSrcegtByZqrZt0tGtZe_8RZLms
-<br>
-<br>
+[linux](https://mega.nz/#!WdonADiC!sCYrBBjy20WBdhps4IYjnRGHOiNk_shfsG2UB1RDoPQ) no mac :,) [4PDA](http://4pda.ru/forum/index.php?showtopic=469340)
+alternatively you can find it on google <br>
+2. install [Preloader drivers](https://mega.nz/file/uQo1XDDI#EF0V4Tr5LgQvXuPAOSrcegtByZqrZt0tGtZe_8RZLms)
 this mega also contains ADB mediatek drivers
 <br>
-3. unzip the rom
+<br>3. unzip the rom
 <br>
-4. select the scatter file
+<br>4. select the scatter file
 <br>
-5. select _**DOWNLOAD ONLY**_ mode if your phone is fully working
-   if the phone is bricked or unstable, selct _**FIRMWARE UPDATE**_
-   **NEVER** select _**FORMAT ALL + DOWNLOAD**_ because IMEIs are lost, and a factory reset is not guaranteed
-   * uncheck "_recovery_" if a custom recovery is already installed (to install a custom recovery,  click on the recovery path and select Philz recovery from the unzipped rom)
-   * uncheck "_USRDATA_" for dirty flash (unstable)
+<br>5. select  "DOWNLOAD ONLY" mode if your phone is fully working,
+   if the phone is bricked or unstable, selct  "FIRMWARE UPDATE",
+    NEVER select "FORMAT ALL + DOWNLOAD" because IMEIs are lost, and a factory reset is not guaranteed <br>
 <br>
-6. click on  _**DOWNLOAD**_
+   * uncheck "recovery" if a custom recovery is already installed (to install a custom recovery,  click on the recovery path and select Philz recovery from the unzipped rom)<br>
 <br>
-7. _**WHILE HOLDING VOL UP AND DOWN**_ plug the phone (without the battery) to the computer, SP FLASH TOOL should start flashing
+   * uncheck "USRDATA" for dirty flash (unstable)
 <br>
-8. once you see a green tick, plug the battery into the phone and reboot
+<br>6. click on  DOWNLOAD
 <br>
-8.5. (optional) flash superSU via recovery
+<br>7. WHILE HOLDING VOL UP AND DOWN plug the phone (without the battery) to the computer, SP FLASH TOOL should start flashing
+<br>
+<br>8. once you see a green tick, plug the battery into the phone and reboot
+<br>
+<br>8.5. (optional) flash superSU via recovery <br>
+<br>
 **GAPPS ARE UNTESTED** (and also useless on android 4.4.2)
 
 ## **Download**
@@ -90,6 +85,8 @@ this mega also contains ADB mediatek drivers
 - MIUI by Xiaomi
 - MIUI 7 port for Deco 77x
 - Federico cirillo (main sponsor for XimiExperience)
+- my best friend Sofia (because yes)
+- my other best friend chiara (also because yes)
 - [_CPSTEST_](https://tiktok.com/@cpstest_) (for the ximi meme)
 
 ## SCREENSHOTS
