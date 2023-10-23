@@ -74,6 +74,7 @@ this mega also contains ADB mediatek drivers
 ## **Known Issues**
 - no app market yet (Aurora doesn't support android 4.4.2)
 - you tell me
+- added wallpapers
 
 ## **Support and Discussions**
 - No discussion group has been created yet
@@ -88,6 +89,7 @@ this mega also contains ADB mediatek drivers
 - my best friend Sofia (because yes)
 - my other best friend chiara (also because yes)
 - [_CPSTEST_](https://tiktok.com/@cpstest_) (for the ximi meme)
+- itzznicholas (wallpapers and logos)
 
 ## SCREENSHOTS
 ![**lOCKSCREEN**](./Lockscreen.png)
