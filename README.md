@@ -12,7 +12,7 @@ A fun and smooth custom rom for your Deco77x
 
 ## Basic informations
 - **ROM Name:**  _XimiExperience_
-- **Version:** 0.1 A
+- **Version:** 0.5 B
 - **Release Date:** COMING SOON
 - **Based on:** Stock rom (2015 kernel)
 
@@ -27,6 +27,8 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 - no unnecessary apps
 - ximi launcher 😍
 - no cringe boot animation
+- DeoDexed
+- performance tweaks
 
 ## **Installation Instructions**
 * due to some technical changes, the rom is now recovery-only, therefore, the flashing method has changed completely
@@ -55,6 +57,19 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 - created github page
 - added images to github
 - added wallpapers
+- added performance tweaks to build.prop such as
+
+persist.sys.purgeable_assets=1
+ro.media.enc.hprof.vid.bps=8000000
+ro.media.dec.jpeg.memcap=8000000
+ro.media.enc.jpeg.quality=100
+windowsmgr.support_rotation_270=true
+windowsmgr.max_events_per_sec=150
+debug.sf.hw=1
+video.accelerate.hw=1
+ro.ril.disable.power.collapse=1
+pm.sleep_mode=1
+
 
 ## **Download**
 * no download yet
