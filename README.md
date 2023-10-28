@@ -12,8 +12,7 @@ A fun and smooth custom rom for your Deco77x
 
 ## Basic informations
 - **ROM Name:**  _XimiExperience_
-- **Version:** 0.5 B
-- **Release Date:** COMING SOON
+- **Version:** 1.0 STABLE
 - **Based on:** Stock rom (2015 kernel)
 
 ## **Description**
@@ -27,8 +26,8 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 - no unnecessary apps
 - ximi launcher 😍
 - no cringe boot animation
-- DeoDexed
 - performance tweaks
+- already rooted (superSU)
 
 ## **Installation Instructions**
 * due to some technical changes, the rom is now recovery-only, therefore, the flashing method has changed completely
@@ -37,13 +36,19 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 1. Boot into recovery
 2. wipe
 3. flash zip
-4. flash superSU
-5. reboot
-6. enjoy <br>
+4. reboot
+5. enjoy <br>
 **GAPPS ARE UNTESTED** (and also useless on android 4.4.2)
+-NOTE: Xiaomi's launcher auto installs some bloatware apps, I can't prevent it right now, but luckly they can easly be deleted just like any other app
+
+## TWEAKS:
+- set animations to 0.5 for a boost in performance
+- download Wallpapers.zip for custom XimiExperience wallpapers
+
 
 ## **Known Issues**
 - no app market yet (Aurora doesn't support android 4.4.2)
+- unpreventable bloatware because of the launcher (can be deleted just like normal apps)
 - you tell me
 
 
@@ -59,20 +64,22 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 - added wallpapers
 - added performance tweaks to build.prop such as
 
-persist.sys.purgeable_assets=1
-ro.media.enc.hprof.vid.bps=8000000
-ro.media.dec.jpeg.memcap=8000000
-ro.media.enc.jpeg.quality=100
-windowsmgr.support_rotation_270=true
-windowsmgr.max_events_per_sec=150
-debug.sf.hw=1
-video.accelerate.hw=1
-ro.ril.disable.power.collapse=1
-pm.sleep_mode=1
+persist.sys.purgeable_assets=1 <br>
+ro.media.enc.hprof.vid.bps=8000000 <br>
+ro.media.dec.jpeg.memcap=8000000 <br>
+ro.media.enc.jpeg.quality=100 <br>
+windowsmgr.support_rotation_270=true <br>
+windowsmgr.max_events_per_sec=150 <br>
+debug.sf.hw=1 <br>
+video.accelerate.hw=1 <br>
+ro.ril.disable.power.collapse=1 <br>
+pm.sleep_mode=1 <br>
 
 
-## **Download**
-* no download yet
+## FUTURE PLANS
+- market
+- recommended apps package (youtube client, browser etc)
+- discussion server
 
 ## **Support and Discussions**
 - No discussion group has been created yet
