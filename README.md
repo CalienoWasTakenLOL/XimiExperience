@@ -56,6 +56,7 @@ using the [_**Stock + clockwork PHILZ**_](https://www.needrom.com/download/deco-
 
 
 ## **Changelog**
+- changed package name
 - Ximi bloatware removed
 - duplicate system launcher remooved
 - Google play services removed
