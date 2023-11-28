@@ -1,7 +1,10 @@
 ![Logo](./Logo.png)
 
 # XimiExperience
-A fun and smooth custom rom for your Deco77x
+A fun and smooth custom rom for your Deco77x 
+
+## SOON XIMIEXPERIENCE WILL NO LONGER BE EXCLUSIVE TO DECO77X
+planned releases include Samsung s5 mini (g800f) and J1 (SM-J100h)
 
 * THIS ROM IS FOR 2015 KERNEL ONLY, I DO AM NOT RESPONSIBLE FOR ANY BRICKS ON 2016 KERNEL
   > To verify kernel version, go to __*settings > device info*__
