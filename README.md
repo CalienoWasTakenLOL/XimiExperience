@@ -3,11 +3,10 @@
 # XimiExperience
 A fun and smooth custom rom for your Deco77x 
 
-## SOON XIMIEXPERIENCE WILL NO LONGER BE EXCLUSIVE TO DECO77X
-planned releases include Samsung s5 mini (g800f) and J1 (SM-J100h)
+## XIMIEXPERIENCE IS NOW AVAILABLE ON OTHER DEVICES
+check the complete list over at https://sites.google.com/view/ximiexperience
 
-* THIS ROM IS FOR 2015 KERNEL ONLY, I DO AM NOT RESPONSIBLE FOR ANY BRICKS ON 2016 KERNEL
-  > To verify kernel version, go to __*settings > device info*__
+the github readme is now obsolete, all of the general info regarding the Rom will be added on the WEBSITE
 
  * Your warranty is now void.
  * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
